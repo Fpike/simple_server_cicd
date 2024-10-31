@@ -1,4 +1,5 @@
 {
   "name": "simple_server",
-  "domain": "frankiepike-simple.xf.mkrs.link"
+  "domain": "frankiepike-simple.xf.mkrs.link",
+  "port": 5000
 }
